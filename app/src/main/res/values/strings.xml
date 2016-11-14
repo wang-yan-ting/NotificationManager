@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">通知拦截</string>
+    <string name="config">配置</string>
+    <string name="del_all">全部删除</string>
+    <string name="getting">获取中...</string>
+    <string name="waiting">请稍等...</string>
+    <string name="title_intercepted_noti">已拦截通知</string>
+    <string name="title_select_app">选择应用</string>
+    <string name="app_category_all">所有应用</string>
+    <string name="app_category_download">用户安装</string>
+    <string name="app_category_system">系统预装</string>
+    <string name="perm_dialog_title">请打开通知读取权限</string>
+    <string name="perm_dialog_content">点击确定去开启通知读取权限</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="select_all">全选</string>
+    <string name="select_none">全不选</string>
+    <string name="select_reverse">反选</string>
+    <string name="about">关于</string>
+    <string name="tip_swipe">向左滑动删除单个通知</string>
+    <string name="kown_it">知道了</string>
+    <string name="no_noti_tip_1">主人，暂时没有通知哦。</string>
+    <string name="version">版本: 1.0.0</string>
+    <string name="mail">邮箱: iamwangyt@163.com</string>
+    <string name="wechat">微信: 48330021</string>
+</resources>
